@@ -1,4 +1,4 @@
-package br.edu.pdm.calculadora;
+package br.edu.pdm.multiconversor;
 
 import org.junit.Test;
 
